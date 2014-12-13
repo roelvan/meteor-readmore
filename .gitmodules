@@ -1,0 +1,3 @@
+[submodule "readmore.js"]
+  path = readmore.js
+  url = https://github.com/jedfoster/Readmore.js.git
